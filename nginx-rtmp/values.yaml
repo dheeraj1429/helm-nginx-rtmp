@@ -1,0 +1,7 @@
+image:
+  repository: dheeraj1429/nginx-rtmp-hls
+  tag: "0.0.1"
+  pullPolicy: IfNotPresent
+  label: nginx-rtmp-hls-label
+
+name: nginx-rtmp-hls
